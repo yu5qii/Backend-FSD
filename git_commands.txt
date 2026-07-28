@@ -14,3 +14,5 @@ git clone url
 other commands-
 git log //no of commits
 git checkout // checks branch
+
+git pull origin main --rebase //when commits are rejected
