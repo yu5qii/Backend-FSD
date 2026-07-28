@@ -26,4 +26,36 @@ async function test() {
     console.log("4");
     console.log("5");
 }
-test()
+test();
+
+//create promises that will print username and password using ___
+//and if username and password are not found then it will call call
+//reject state and print error
+
+const checkCredentials = (username, password) => {
+  return new Promise((resolve, reject) => {
+    const isFound = (username && password) ? true : false;
+
+    if (isFound) {
+      resolve({ user: username, pass: password });
+    } else {
+      reject(new Error("Error: Username and password not found."));
+    }
+  });
+};
+
+checkCredentials("Ridah", "123123")
+  .then((data) => {
+    console.log(`Username: ${data.user}, Password: ${data.pass}`);
+  })
+  .catch((error) => {
+    console.error(error.message);
+  });
+
+checkCredentials("", null)
+  .then((data) => {
+    console.log(`Username: ${data.user}, Password: ${data.pass}`);
+  })
+  .catch((error) => {
+    console.error(error.message);
+  });
