@@ -1,0 +1,77 @@
+[
+    {
+        "id": "S1001",
+        "first_name": "Alice",
+        "last_name": "Smith",
+        "age": 20,
+        "major": "Computer Science",
+        "gpa": 3.8,
+        "email": "alice.smith@example.edu",
+        "enrollment_year": 2024,
+        "courses": [
+            "CS101",
+            "MATH201",
+            "PHYS105"
+        ]
+    },
+    {
+        "id": "S1002",
+        "first_name": "Bob",
+        "last_name": "Johnson",
+        "age": 22,
+        "major": "Mechanical Engineering",
+        "gpa": 3.4,
+        "email": "bob.johnson@example.edu",
+        "enrollment_year": 2022,
+        "courses": [
+            "MECH301",
+            "MATH202",
+            "ENG205"
+        ]
+    },
+    {
+        "id": "S1003",
+        "first_name": "Charlie",
+        "last_name": "Davis",
+        "age": 19,
+        "major": "Biology",
+        "gpa": 3.9,
+        "email": "charlie.davis@example.edu",
+        "enrollment_year": 2025,
+        "courses": [
+            "BIO101",
+            "CHEM101",
+            "ENG101"
+        ]
+    },
+    {
+        "id": "S1004",
+        "first_name": "Diana",
+        "last_name": "Martinez",
+        "age": 21,
+        "major": "Business Administration",
+        "gpa": 3.6,
+        "email": "diana.martinez@example.edu",
+        "enrollment_year": 2023,
+        "courses": [
+            "BUS201",
+            "ECON102",
+            "MKTG301"
+        ]
+    },
+    {
+        "id": "S1005",
+        "first_name": "Evan",
+        "last_name": "Wright",
+        "age": 23,
+        "major": "History",
+        "gpa": 3.2,
+        "email": "evan.wright@example.edu",
+        "enrollment_year": 2021,
+        "courses": [
+            "HIST401",
+            "POLS201",
+            "SOC101"
+        ]
+    }
+]
