@@ -2,7 +2,7 @@ import express from "express";
 import fs from "fs";
 
 const app = express();
-const PROT = 3000;
+const PORT = 3000;
 
 app.get("/", (req, res) => {
     fs.readFile("./pages/index.html", "utf-8", (err, data) => {
@@ -38,4 +38,9 @@ app.get("/about", (req, res) => {
             res.send(data);
         }
     });
+})
+
+
+app.listen(PORT, () => {
+    console.log(`server wunning on http://localhost:${PORT}`);
 })
