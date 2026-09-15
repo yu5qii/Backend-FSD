@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "price": 92.04,
+    "category": "Tech"
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "price": 74.21,
+    "category": "Tech"
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "price": 43.91,
+    "category": "Tech"
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "price": 45.99,
+    "category": "Tech"
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "price": 43.66,
+    "category": "Tech"
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "price": 57.88,
+    "category": "Tech"
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "price": 22.06,
+    "category": "Tech"
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "price": 102.56,
+    "category": "Tech"
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "price": 98.32,
+    "category": "Tech"
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "price": 103.77,
+    "category": "Tech"
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "price": 54.8,
+    "category": "Tech"
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "price": 36.99,
+    "category": "Tech"
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "price": 59.7,
+    "category": "Tech"
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "price": 35.67,
+    "category": "Tech"
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "price": 66.89,
+    "category": "Tech"
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "price": 107.59,
+    "category": "Tech"
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "price": 96.84,
+    "category": "Tech"
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "price": 107.59,
+    "category": "Tech"
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "price": 109.38,
+    "category": "Tech"
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "price": 70.71,
+    "category": "Tech"
+  },
+  {
+    "id": 21,
+    "name": "Product 21",
+    "price": 87.65,
+    "category": "Tech"
+  },
+  {
+    "id": 22,
+    "name": "Product 22",
+    "price": 17.62,
+    "category": "Tech"
+  },
+  {
+    "id": 23,
+    "name": "Product 23",
+    "price": 68.11,
+    "category": "Tech"
+  },
+  {
+    "id": 24,
+    "name": "Product 24",
+    "price": 64.18,
+    "category": "Tech"
+  },
+  {
+    "id": 25,
+    "name": "Product 25",
+    "price": 69.01,
+    "category": "Tech"
+  },
+  {
+    "id": 26,
+    "name": "Product 26",
+    "price": 90.57,
+    "category": "Tech"
+  },
+  {
+    "id": 27,
+    "name": "Product 27",
+    "price": 38.35,
+    "category": "Tech"
+  },
+  {
+    "id": 28,
+    "name": "Product 28",
+    "price": 35.53,
+    "category": "Tech"
+  },
+  {
+    "id": 29,
+    "name": "Product 29",
+    "price": 44.7,
+    "category": "Tech"
+  },
+  {
+    "id": 30,
+    "name": "Product 30",
+    "price": 85.19,
+    "category": "Tech"
+  },
+  {
+    "id": 31,
+    "name": "Product 31",
+    "price": 99.23,
+    "category": "Tech"
+  },
+  {
+    "id": 32,
+    "name": "Product 32",
+    "price": 67.61,
+    "category": "Tech"
+  },
+  {
+    "id": 33,
+    "name": "Product 33",
+    "price": 46.93,
+    "category": "Tech"
+  },
+  {
+    "id": 34,
+    "name": "Product 34",
+    "price": 88.21,
+    "category": "Tech"
+  },
+  {
+    "id": 35,
+    "name": "Product 35",
+    "price": 39.51,
+    "category": "Tech"
+  },
+  {
+    "id": 36,
+    "name": "Product 36",
+    "price": 16.56,
+    "category": "Tech"
+  },
+  {
+    "id": 37,
+    "name": "Product 37",
+    "price": 94.29,
+    "category": "Tech"
+  },
+  {
+    "id": 38,
+    "name": "Product 38",
+    "price": 109.63,
+    "category": "Tech"
+  },
+  {
+    "id": 39,
+    "name": "Product 39",
+    "price": 106.66,
+    "category": "Tech"
+  },
+  {
+    "id": 40,
+    "name": "Product 40",
+    "price": 97.04,
+    "category": "Tech"
+  },
+  {
+    "id": 41,
+    "name": "Product 41",
+    "price": 87.87,
+    "category": "Tech"
+  },
+  {
+    "id": 42,
+    "name": "Product 42",
+    "price": 97.21,
+    "category": "Tech"
+  },
+  {
+    "id": 43,
+    "name": "Product 43",
+    "price": 64.91,
+    "category": "Tech"
+  },
+  {
+    "id": 44,
+    "name": "Product 44",
+    "price": 72.99,
+    "category": "Tech"
+  },
+  {
+    "id": 45,
+    "name": "Product 45",
+    "price": 76.67,
+    "category": "Tech"
+  },
+  {
+    "id": 46,
+    "name": "Product 46",
+    "price": 48.48,
+    "category": "Tech"
+  },
+  {
+    "id": 47,
+    "name": "Product 47",
+    "price": 101.23,
+    "category": "Tech"
+  },
+  {
+    "id": 48,
+    "name": "Product 48",
+    "price": 75.39,
+    "category": "Tech"
+  },
+  {
+    "id": 49,
+    "name": "Product 49",
+    "price": 57.7,
+    "category": "Tech"
+  },
+  {
+    "id": 50,
+    "name": "Product 50",
+    "price": 65.9,
+    "category": "Tech"
+  },
+  {
+    "id": 51,
+    "name": "Product 51",
+    "price": 23.87,
+    "category": "Tech"
+  },
+  {
+    "id": 52,
+    "name": "Product 52",
+    "price": 71.95,
+    "category": "Tech"
+  },
+  {
+    "id": 53,
+    "name": "Product 53",
+    "price": 69.69,
+    "category": "Tech"
+  },
+  {
+    "id": 54,
+    "name": "Product 54",
+    "price": 37.02,
+    "category": "Tech"
+  },
+  {
+    "id": 55,
+    "name": "Product 55",
+    "price": 24.62,
+    "category": "Tech"
+  },
+  {
+    "id": 56,
+    "name": "Product 56",
+    "price": 40.6,
+    "category": "Tech"
+  },
+  {
+    "id": 57,
+    "name": "Product 57",
+    "price": 40.03,
+    "category": "Tech"
+  },
+  {
+    "id": 58,
+    "name": "Product 58",
+    "price": 79.26,
+    "category": "Tech"
+  },
+  {
+    "id": 59,
+    "name": "Product 59",
+    "price": 68,
+    "category": "Tech"
+  },
+  {
+    "id": 60,
+    "name": "Product 60",
+    "price": 99.46,
+    "category": "Tech"
+  },
+  {
+    "id": 61,
+    "name": "Product 61",
+    "price": 92.17,
+    "category": "Tech"
+  },
+  {
+    "id": 62,
+    "name": "Product 62",
+    "price": 79.31,
+    "category": "Tech"
+  },
+  {
+    "id": 63,
+    "name": "Product 63",
+    "price": 108.63,
+    "category": "Tech"
+  },
+  {
+    "id": 64,
+    "name": "Product 64",
+    "price": 42.47,
+    "category": "Tech"
+  },
+  {
+    "id": 65,
+    "name": "Product 65",
+    "price": 62.45,
+    "category": "Tech"
+  },
+  {
+    "id": 66,
+    "name": "Product 66",
+    "price": 29.73,
+    "category": "Tech"
+  },
+  {
+    "id": 67,
+    "name": "Product 67",
+    "price": 72.6,
+    "category": "Tech"
+  },
+  {
+    "id": 68,
+    "name": "Product 68",
+    "price": 16.63,
+    "category": "Tech"
+  },
+  {
+    "id": 69,
+    "name": "Product 69",
+    "price": 59.92,
+    "category": "Tech"
+  },
+  {
+    "id": 70,
+    "name": "Product 70",
+    "price": 41.39,
+    "category": "Tech"
+  },
+  {
+    "id": 71,
+    "name": "Product 71",
+    "price": 63.75,
+    "category": "Tech"
+  },
+  {
+    "id": 72,
+    "name": "Product 72",
+    "price": 34.22,
+    "category": "Tech"
+  },
+  {
+    "id": 73,
+    "name": "Product 73",
+    "price": 108.5,
+    "category": "Tech"
+  },
+  {
+    "id": 74,
+    "name": "Product 74",
+    "price": 68.12,
+    "category": "Tech"
+  },
+  {
+    "id": 75,
+    "name": "Product 75",
+    "price": 61.37,
+    "category": "Tech"
+  },
+  {
+    "id": 76,
+    "name": "Product 76",
+    "price": 40.68,
+    "category": "Tech"
+  },
+  {
+    "id": 77,
+    "name": "Product 77",
+    "price": 23.64,
+    "category": "Tech"
+  },
+  {
+    "id": 78,
+    "name": "Product 78",
+    "price": 44.98,
+    "category": "Tech"
+  },
+  {
+    "id": 79,
+    "name": "Product 79",
+    "price": 23.11,
+    "category": "Tech"
+  },
+  {
+    "id": 80,
+    "name": "Product 80",
+    "price": 32.37,
+    "category": "Tech"
+  },
+  {
+    "id": 81,
+    "name": "Product 81",
+    "price": 65.16,
+    "category": "Tech"
+  },
+  {
+    "id": 82,
+    "name": "Product 82",
+    "price": 10.05,
+    "category": "Tech"
+  },
+  {
+    "id": 83,
+    "name": "Product 83",
+    "price": 50.96,
+    "category": "Tech"
+  },
+  {
+    "id": 84,
+    "name": "Product 84",
+    "price": 68.56,
+    "category": "Tech"
+  },
+  {
+    "id": 85,
+    "name": "Product 85",
+    "price": 59.31,
+    "category": "Tech"
+  },
+  {
+    "id": 86,
+    "name": "Product 86",
+    "price": 41.79,
+    "category": "Tech"
+  },
+  {
+    "id": 87,
+    "name": "Product 87",
+    "price": 90.61,
+    "category": "Tech"
+  },
+  {
+    "id": 88,
+    "name": "Product 88",
+    "price": 97.03,
+    "category": "Tech"
+  },
+  {
+    "id": 89,
+    "name": "Product 89",
+    "price": 47.52,
+    "category": "Tech"
+  },
+  {
+    "id": 90,
+    "name": "Product 90",
+    "price": 48.65,
+    "category": "Tech"
+  },
+  {
+    "id": 91,
+    "name": "Product 91",
+    "price": 99.6,
+    "category": "Tech"
+  },
+  {
+    "id": 92,
+    "name": "Product 92",
+    "price": 28.56,
+    "category": "Tech"
+  },
+  {
+    "id": 93,
+    "name": "Product 93",
+    "price": 86.29,
+    "category": "Tech"
+  },
+  {
+    "id": 94,
+    "name": "Product 94",
+    "price": 51.94,
+    "category": "Tech"
+  },
+  {
+    "id": 95,
+    "name": "Product 95",
+    "price": 10.61,
+    "category": "Tech"
+  },
+  {
+    "id": 96,
+    "name": "Product 96",
+    "price": 60.37,
+    "category": "Tech"
+  },
+  {
+    "id": 97,
+    "name": "Product 97",
+    "price": 46.97,
+    "category": "Tech"
+  },
+  {
+    "id": 98,
+    "name": "Product 98",
+    "price": 86.8,
+    "category": "Tech"
+  },
+  {
+    "id": 99,
+    "name": "Product 99",
+    "price": 81.15,
+    "category": "Tech"
+  },
+  {
+    "id": 100,
+    "name": "Product 100",
+    "price": 102.6,
+    "category": "Tech"
+  }
+]
