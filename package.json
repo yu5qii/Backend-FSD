@@ -1,0 +1,21 @@
+{
+  "name": "backend-fsd",
+  "version": "1.0.0",
+  "description": "SEM - 3 Full Stack Development workshop",
+  "main": "1808.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yu5qii/Backend-FSD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yu5qii/Backend-FSD/issues"
+  },
+  "homepage": "https://github.com/yu5qii/Backend-FSD#readme"
+}
